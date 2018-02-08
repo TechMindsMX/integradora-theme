@@ -133,15 +133,6 @@ a:focus {
     color: rgba(255,255,255,0.7);
 }
 
-.backM1 {
-  background-image: url(img/m1-back.png);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-color: #FFFFFF;
-}
-
 /* Wrappers
 
   `8.`888b                 ,8' 8 888888888o.            .8.          8 888888888o   8 888888888o   8 8888888888   8 888888888o.     d888888o.   
