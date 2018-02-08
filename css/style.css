@@ -816,12 +816,12 @@ a:focus {
 
 .portlet-green,
 .portlet-green>.portlet-heading {
-    border-color: #002453;
+    border-color: #1E90FF;
 }
 
 .portlet-green>.portlet-heading {
     color: #fff;
-    background-color: #1E90FF;
+    background-color: #002453;
 }
 
 .portlet-orange,
